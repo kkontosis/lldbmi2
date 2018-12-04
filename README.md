@@ -1,8 +1,22 @@
 # LLDBMI2
 
-A simple MI interface to LLDB.
+A simple MI interface to LLDB customized for [Intellij Plugin for the D Programming Language](https://github.com/intellij-dlanguage/intellij-dlanguage).
 
-Usable with Eclipse IDE (C, C++) and Lazarus IDE (Pascal)
+# Fork Related Notes
+
+This is a customized version of the original [LLDBMI2](https://github.com/freedib/lldbmi2) that works with IntelliJ IDEA (D).
+
+It helps with debugging the D programming language on Mac OS-X, since GDB does not work very easily.
+
+User Notice: This fork does not complete or fix the MI2 wrapper. It is a simple patch to facilitate D Debugging with IntelliJ D Language Plugin. Use it at your own risk.
+
+Current Status: 
+* Run to Cursor is currently not working.
+* Other features may be of unknown status.
+
+Developer Notice: This fork is currently a hack. I may not have the time to ever clean this up.
+
+The documentation of the original LLDBMI2 follows.
 
 # Context
 
