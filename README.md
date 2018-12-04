@@ -10,7 +10,7 @@ It helps with debugging the D programming language on Mac OS X, since GDB does n
 
 *User Notice*: This fork does not complete or fix the MI2 wrapper. It is a simple patch to facilitate D Debugging with IntelliJ D Language Plugin. Use it at your own risk.
 
-*Developer Notice*: This fork is currently a hack. I may not have the time to ever clean this up.
+*Developer Notice*: This fork is currently a hack. I may not ever have the time to clean this up.
 
 *Current Status*: 
 * Run to Cursor is currently not working.
