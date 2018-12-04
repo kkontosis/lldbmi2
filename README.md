@@ -6,7 +6,7 @@ A simple MI interface to LLDB customized for [Intellij Plugin for the D Programm
 
 This is a customized version of the original [LLDBMI2](https://github.com/freedib/lldbmi2) that works with IntelliJ IDEA (D).
 
-It helps with debugging the D programming language on Mac OS X, since GDB does not work very easily.
+It helps with debugging the D programming language on Mac OS X, since making GDB work is (currently) hard.
 
 *User Notice*: This fork does not complete or fix the MI2 wrapper. It is a simple patch to facilitate D Debugging with IntelliJ D Language Plugin. Use it at your own risk.
 
