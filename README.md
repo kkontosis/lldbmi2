@@ -1,4 +1,4 @@
-# LLDBMI2
+# LLDBMI2 (D)
 
 A simple MI interface to LLDB customized for [Intellij Plugin for the D Programming Language](https://github.com/intellij-dlanguage/intellij-dlanguage).
 
