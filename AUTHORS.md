@@ -7,3 +7,6 @@ Didier Bertrand
 Eduard Matveev (CMAKE)
 
 David Jenkins (Lazarus IDE)
+
+## Intellij+D Fork Contribution
+Kimon Kontosis
