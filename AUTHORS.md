@@ -8,5 +8,5 @@ Eduard Matveev (CMAKE)
 
 David Jenkins (Lazarus IDE)
 
-## Intellij+D Fork Contribution
-Kimon Kontosis
+## Intellij+D Fork
+Kimon Kontosis (Current Repository)
